@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26167'
     url: http://www.gutenberg.org/2009/agents/26167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24018#The-Golfer-s-Rubaiyat
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
